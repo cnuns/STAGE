@@ -51,7 +51,7 @@ Then, execute the following command, replacing the placeholders with your desire
 
 - `M`: Map size (e.g., 10, 20, 30, or multiples of 10)
 - `S`: Sensing range (1 or 2)
-- `D`: Node density (0.04 or 0.08)
+- `D`: Node density (0.02 or 0.03)
 - `P`: Packet loss probability, where `P ∈ [0, 1]`, default is 0.
 - `F`: Observation fault probability, where `F ∈ [0, 1]`, default is 0.
 
@@ -79,7 +79,7 @@ Then, execute the following command, replacing the placeholders with your desire
 
 - `M`: Map size (e.g., 10, 20, 30, or multiples of 10)
 - `S`: Sensing range (1 or 2)
-- `D`: Node density (0.03 or 0.06)
+- `D`: Node density (0.04 or 0.06)
 - `P`: Packet loss probability, where `P ∈ [0, 1]`, default is 0.
 - `F`: Observation fault probability, where `F ∈ [0, 1]`, default is 0.
 

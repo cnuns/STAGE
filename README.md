@@ -1,4 +1,4 @@
-# STAGE
+# Sequential Partial Transfer for Scalable Graph-based MARL under Lossy and Faulty Networks
 
 ## Requirements
 - PyTorch
